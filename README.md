@@ -1,4 +1,4 @@
-Small code updates necessary to keep jukebox functional.
+**Added small code updates (post-archive) necessary to keep jukebox functional**
 
 **Status:** Archive (code is provided as-is, no updates expected)
 
